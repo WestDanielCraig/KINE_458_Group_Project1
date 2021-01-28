@@ -1,62 +1,26 @@
-# Project Title
+# Village of Concern
 
-Simple overview of use/purpose.
+In everyday life we face a constant barrage of potentially stressful situations,
+experiences, and circumstances. These realities can fill us with anxiety, trepidation and
+other negative feelings. Our game explores those situations and emotions in a lighthearted
+manner but also shows they can devour us from the inside out.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Village of Concern was made by a group of five VCU students. Four of those students were majoring in VCU Arts while the fifth was majoring in computer science. These four students colaborated in building a game from the ground up that explores a virtual world. The four art students designed most of the landscape, sound, characters and layout while the fifth student took care of the technical aspects of the project. This inviled setting up Unity Coloborate, writing the C# scripts and designing all the functionality inside the virtual world.
 
 ## Getting Started
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
-
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
+Unity
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+Daniel West - Computer Science
+Maria Cifuentes - Arts
+Phoenix Grove - Arts
+Lote Patterson - Arts
+Rowan Martin - Arts
